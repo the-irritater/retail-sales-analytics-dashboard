@@ -147,7 +147,7 @@ An interactive dashboard was built to visualize business insights.
 
 ## Dashboard Preview
 
-
+![Dashboard Preview](screenshot/dashboard-overview.png)
 
 ---
 
