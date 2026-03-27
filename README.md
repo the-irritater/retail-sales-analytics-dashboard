@@ -147,7 +147,7 @@ An interactive dashboard was built to visualize business insights.
 
 ## Dashboard Preview
 
-!"C:\Users\Sanman\Downloads\Projects\Retail-Sales-Analytics-Dashboard\screenshot\dashboard-overview.png"->
+![Dashboard Preview]("C:\Users\Sanman\Downloads\Projects\Retail-Sales-Analytics-Dashboard\screenshot\dashboard-overview.png")
 
 
 ---
