@@ -6,7 +6,7 @@ import seaborn as sns
 pd.set_option('display.max_columns', None)
 pd.set_option('display.max_rows', 10)
 
-df = pd.read_csv("C:\\Users\\Sanman\\Downloads\\Projects\\Retail-Sales-Analytics-Dashboard\\data\\online_retail_II.csv")
+df = pd.read_csv("data\\raw\\online_retail_II.csv")
 
 df.head()
 
