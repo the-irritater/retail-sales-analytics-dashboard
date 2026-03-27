@@ -147,7 +147,7 @@ An interactive dashboard was built to visualize business insights.
 
 ## Dashboard Preview
 
-!<img width="1314" height="738" alt="dashboard_overview" src="https://github.com/user-attachments/assets/a10c3cfa-6956-4de7-bc01-c87a1ac6c51b" />
+!"C:\Users\Sanman\Downloads\Projects\Retail-Sales-Analytics-Dashboard\screenshot\dashboard-overview.png"
 
 
 ---
