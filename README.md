@@ -218,7 +218,6 @@ Contributions are welcome:
 git checkout -b feature/your-improvement
 git commit -m "feat: add customer cohort analysis"
 ```
-   ````
 3. Push changes and open a Pull Request
 
 
