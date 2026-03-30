@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.9-blue)]()
 [![SQL](https://img.shields.io/badge/SQL-Server-CC2927)]()
 [![PowerBI](https://img.shields.io/badge/PowerBI-Desktop-F2C811)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
 
 ## Overview
 
