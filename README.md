@@ -212,9 +212,7 @@ Contributions are welcome:
 
 1. Fork the repository  
 2. Create a feature branch  
-   ```
-   bash
- ```bash
+```bash
 git checkout -b feature/your-improvement
 git commit -m "feat: add customer cohort analysis"
 ```
