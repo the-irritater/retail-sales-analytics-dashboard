@@ -1,8 +1,8 @@
 # Retail Sales Analytics: End-to-End Business Intelligence Dashboard
 
-[![Python](https://img.shields.io/badge/Python-3.9-blue)]()
-[![SQL](https://img.shields.io/badge/SQL-Server-CC2927)]()
-[![PowerBI](https://img.shields.io/badge/PowerBI-Desktop-F2C811)]()
+[![Python](https://img.shields.io/badge/Python-3.9-3776AB?logo=python&logoColor=white)]()
+[![SQL Server](https://img.shields.io/badge/SQL_Server-2019-CC2927?logo=microsoftsqlserver&logoColor=white)]()
+[![Power BI](https://img.shields.io/badge/Power_BI-Desktop-F2C811?logo=powerbi&logoColor=black)]()
 
 ## Overview
 
@@ -98,7 +98,7 @@ GROUP BY p.Description
 ORDER BY Revenue DESC;
 ```
 
-*Created summary views for reporting: v_revenue_by_country, v_monthly_trends, v_customer_segments
+* Created summary views for reporting: v_revenue_by_country, v_monthly_trends, v_customer_segments
 
 ### 3. Power BI Dashboard Development
 An interactive dashboard was built to visualize business insights with decision-support rationale:
@@ -152,8 +152,7 @@ python scripts/load_to_sql.py --environment production
 
 ## Dashboard Preview
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
-
+![Dashboard Overview](screenshot/dashboard-overview.png)
 ---
 
 ## Reproducibility
@@ -170,8 +169,8 @@ This project is designed for consistent execution across environments:
 
 ```bash
 # Clone repository
-git clone <your-repo-url>
-cd <repo-name>
+# <your-repo-url> = https://github.com/the-irritater/retail-sales-analytics-dashboard.git
+# <repo-name> = retail-sales-analytics-dashboard
 
 # Create virtual environment
 python -m venv venv
@@ -215,8 +214,10 @@ Contributions are welcome:
 2. Create a feature branch  
    ```
    bash
-   git checkout -b feature/your-improvement
-   git commit -m "feat: add customer cohort analysis"
+ ```bash
+git checkout -b feature/your-improvement
+git commit -m "feat: add customer cohort analysis"
+```
    ````
 3. Push changes and open a Pull Request
 
@@ -227,4 +228,4 @@ Sanman Kadam
 MSc Statistics | Data Analyst
 GitHub: https://github.com/the-irritater
 
-LinkedIn: https://www.linkedin.com/in/sanman-kadam-7a4990374/)
+LinkedIn: https://www.linkedin.com/in/sanman-kadam-7a4990374/
