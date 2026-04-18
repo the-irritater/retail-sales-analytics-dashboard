@@ -1,6 +1,6 @@
 # Retail Sales Analytics: End-to-End Business Intelligence Dashboard
 
-[![Python](https://img.shields.io/badge/Python-3.9-3776AB?logo=python&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)]()
 [![SQL Server](https://img.shields.io/badge/SQL_Server-2019-CC2927?logo=microsoftsqlserver&logoColor=white)]()
 [![Power BI](https://img.shields.io/badge/Power_BI-Desktop-F2C811?logo=powerbi&logoColor=black)]()
 
