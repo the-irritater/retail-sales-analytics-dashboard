@@ -18,9 +18,9 @@ Business stakeholders require timely visibility into revenue drivers, customer r
 
 * Quantify revenue contribution by product category (target: identify top 20% of SKUs driving 80% of revenue)
 * Measure customer retention rate and repeat purchase frequency
-* Evaluate country-wise sales performance and market penetration
+* Evaluate country wise sales performance and market penetration
 * Understand purchasing patterns by weekday and hour for operational planning
-* Enable interactive filtering by country, time period, and product attributes for self-service analysis
+* Enable interactive filtering by country, time period, and product attributes for self service analysis
 
 ## Technical Architecture
 
@@ -82,7 +82,7 @@ See `data/data_dictionary.md` for column definitions and business rules.
 ### 2. Data Loading & SQL Analysis
 
 * Created normalized database schema with fact_sales and dimension tables
-* Developed Python-based data loading pipeline (`scripts/load_to_sql.py`) to overcome SQL import limitations
+* Developed Python based data loading pipeline (`scripts/load_to_sql.py`) to overcome SQL import limitations
 * Handled datatype inconsistencies, datetime conversion issues, and large dataset insertion challenges
 * Performed analytical queries to derive business insights:
 
@@ -101,7 +101,7 @@ ORDER BY Revenue DESC;
 * Created summary views for reporting: v_revenue_by_country, v_monthly_trends, v_customer_segments
 
 ### 3. Power BI Dashboard Development
-An interactive dashboard was built to visualize business insights with decision-support rationale:
+An interactive dashboard was built to visualize business insights with decision support rationale:
 * Monthly Revenue Trend: Enables identification of seasonal patterns and campaign impact assessment
 * Top 10 Products by Revenue: Supports inventory allocation and discontinuation decisions
 * Sales by Weekday: Informs staffing and promotional timing strategies
