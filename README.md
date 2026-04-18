@@ -223,6 +223,7 @@ git commit -m "feat: add customer cohort analysis"
 
 Sanman Kadam
 MSc Statistics | Data Analyst
-GitHub: https://github.com/the-irritater
 
-LinkedIn: https://www.linkedin.com/in/sanman-kadam-7a4990374/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanman%20Kadam-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanman-kadam-7a4990374/)
+[![GitHub](https://img.shields.io/badge/GitHub-the--irritater-black?style=flat&logo=github)](https://github.com/the-irritater)
+
